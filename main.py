@@ -13,7 +13,7 @@ BOT_TOKEN = "8802635273:AAFkW8033y_JREWUlCbz_adLWdghxm7n8sE"
 ADMIN_ID = 8671410379
 
 # UPI ID for Auto QR Code (Yahan apni sahi UPI ID dalein)
-UPI_ID = "rehan@paytm"  # <-- Apni UPI ID se replace karein
+UPI_ID = "oxrehan11@oksbi"  # <-- Apni UPI ID se replace karein
 UPI_NAME = "OxRehan"
 
 # API Configurations
